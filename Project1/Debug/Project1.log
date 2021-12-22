@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\mitha\source\repos\Project1\Project1\Main.c(93,10): warning C4566: character represented by universal-character-name '\u0130' cannot be represented in the current code page (1252)
+  Project1.vcxproj -> C:\Users\mitha\source\repos\Project1\Debug\Project1.exe
